@@ -7,6 +7,7 @@ A startup's financing cycle includes typical stages as:
 4. IPO: a method of exit which happens when the startup has been extremely successful, and decides to sell its shares to the public.
  
 The project aims to solve 2 questions:
+
 #Q1: Which kinds of startups tend to raise higher amount of fund in Angel rounds?
  This question is solved by building data model and visualize on Power BI. 
 
